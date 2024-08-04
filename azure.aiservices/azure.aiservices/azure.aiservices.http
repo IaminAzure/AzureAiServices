@@ -1,0 +1,6 @@
+@azure.aiservices_HostAddress = http://localhost:5187
+
+GET {{azure.aiservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
